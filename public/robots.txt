@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://flexyz-log.vercel.app
+
+# Sitemaps
+Sitemap: https://flexyz-log.vercel.app/sitemap.xml
