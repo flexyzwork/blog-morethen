@@ -29,6 +29,9 @@ importers:
       cookies-next:
         specifier: ^2.1.2
         version: 2.1.2
+      katex:
+        specifier: link:katex
+        version: link:katex
       mermaid:
         specifier: ^10.9.1
         version: 10.9.3
